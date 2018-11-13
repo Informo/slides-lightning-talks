@@ -49,7 +49,7 @@ Note: Tor uses a specific protocol that can be detected
 
 - Built on [![Matrix](img/matrix.png)<!-- .element: class="plain" style="height: 60px; margin: 0; vertical-align: middle;" -->](https://matrix.org)
     + Hides users' IP
-    + Uses HTTPS (hard to track)
+    + Uses HTTPS (harder to track)
     + Data is synchronised across the federation
 - Anybody can host a node
 - We can keep track of existing nodes

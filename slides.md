@@ -3,7 +3,7 @@
 <!-- .slide: data-background="#417D44" -->
 
 
-## Who are we
+## Who we are
 
 - Vabd
     + Matrix `@vabd:weu.informo.network`

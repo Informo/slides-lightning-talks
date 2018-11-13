@@ -26,8 +26,8 @@
 
 ## Solution: proxy / mirror
 
-- Users rely on foreign entities to set-up mirrors
-- The mirrors can be blocked too
+- Users rely on foreign entities to set them up
+- They can be blocked too
 
 
 ## Solution: Tor
@@ -47,12 +47,12 @@ Note: Tor uses a specific protocol that can be detected
 
 ## Federated infrastructure
 
-- Built on [Matrix](https://matrix.org)
+- Built on [![Matrix](img/matrix.png)<!-- .element: class="plain" style="height: 60px; margin: 0; vertical-align: middle;" -->](https://matrix.org)
     + Hides users' IP
     + Uses HTTPS (hard to track)
-- Data is shared and synchronised across nodes
+    + Data is synchronised across the federation
 - Anybody can host a node
-- We keep track of existing nodes
+- We can keep track of existing nodes
 
 Notes: __=> Anybody can send deceptive information__
 
@@ -87,19 +87,18 @@ Notes:
 - Open specification since Aug. 2018
 
 Notes:
-- POC had some design limitations
+- POC revealed some design limitations
 
 
 ------------------------------------------------------------
 
-# Links
+# Thanks !
 <!-- .slide: data-background="#417D44" -->
 
-- Github: [https://github.com/informo](https://github.com/informo)
-- Read the specs: [https://specs.informo.network](https://specs.informo.network/)
-- Chat:
-    + [IRC](irc://chat.freenode.net/#informo): `#informo` on chat.freenode.net
-    + [Matrix](https://matrix.to/#/!LppXGlMuWgaYNuljUr:weu.informo.network): `#discuss:weu.informo.network`
-- Mail: [contact@informo.network](contact@informo.network)
+- [__Github__: https://github.com/informo](https://github.com/informo)
+- [__Read the specs__: https://specs.informo.network](https://specs.informo.network/)
+- [__IRC__: `#informo` on chat.freenode.net](irc://chat.freenode.net/#informo)
+- [__Matrix__: `#discuss:weu.informo.network`](https://matrix.to/#/!LppXGlMuWgaYNuljUr:weu.informo.network)
+- [__Mail__: contact@informo.network](contact@informo.network)
 
 __Please come and contribute !__

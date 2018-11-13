@@ -103,7 +103,7 @@ Notes:
 
 ------------------------------------------------------------
 
-# Thanks !
+# Thanks!
 <!-- .slide: data-background="#417D44" -->
 
 - [__Github__: <u>https://github.com/informo</u>](https://github.com/informo)
@@ -112,4 +112,4 @@ Notes:
 - [__Matrix__: `#discuss:weu.informo.network`](https://matrix.to/#/!LppXGlMuWgaYNuljUr:weu.informo.network)
 - [__Mail__: core@informo.network](core@informo.network)
 
-__Please come and contribute !__
+__Please come and contribute!__

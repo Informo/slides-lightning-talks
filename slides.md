@@ -3,7 +3,7 @@
 <!-- .slide: data-background="#417D44" -->
 
 
-## Who are we
+## Who we are
 
 - Vabd
     + Matrix `@vabd:weu.informo.network`
@@ -49,7 +49,7 @@ Note: Tor uses a specific protocol that can be detected
 
 - Built on [![Matrix](img/matrix.png)<!-- .element: class="plain" style="height: 60px; margin: 0; vertical-align: middle;" -->](https://matrix.org)
     + Hides users' IP
-    + Uses HTTPS (hard to track)
+    + Uses HTTPS (harder to track)
     + Data is synchronised across the federation
 - Anybody can host a node
 - We can keep track of existing nodes
@@ -84,7 +84,7 @@ Notes:
 
 - Started in Dec. 2017 during Collateral Freedom hackathon
 - Proof of concept
-- Open specification since Aug. 2018
+- Open specification since Oct. 2018
 
 Notes:
 - POC revealed some design limitations

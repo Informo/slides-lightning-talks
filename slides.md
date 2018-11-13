@@ -84,7 +84,7 @@ Notes:
 
 - Started in Dec. 2017 during Collateral Freedom hackathon
 - Proof of concept
-- Open specification since Aug. 2018
+- Open specification since Oct. 2018
 
 Notes:
 - POC revealed some design limitations

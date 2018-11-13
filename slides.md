@@ -21,15 +21,13 @@
 # Issues
 
 - Some countries censor information and journalists
-- Governments or ISPs can track who visits specific websites
+- Governments or ISPs can track website users
 
+[![2018 World press freedom index map](img/pressfreedom.png)<!-- .element: style="height: 370px; margin: 0;" -->](https://rsf.org/en/ranking)
 
-## Solution: proxy / mirror
-
-- Users rely on foreign entities to set them up
-- They can be blocked too
-
-Note: Tor uses a specific protocol that can be detected
+Note:
+- Map is _2018 World press freedom index map_
+- Belgium is 7th, France is 33th, UK is 40th
 
 
 ## Solution: VPN
@@ -38,12 +36,22 @@ Note: Tor uses a specific protocol that can be detected
 - Privacy invasive
 - Either costly or hard to set-up
 
+Note: VPN uses a specific protocol that can be detected (and generally specific ports)
+
 
 ## Solution: Tor
 
 - Tor traffic is easily detected
 
 Note: Tor uses a specific protocol that can be detected
+
+
+## Solution: proxy / mirror
+
+- Users rely on foreign entities to set them up
+- They can be blocked too
+
+
 
 
 ------------------------------------------------------------

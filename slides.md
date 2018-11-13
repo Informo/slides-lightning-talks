@@ -99,6 +99,6 @@ Notes:
 - [__Read the specs__: https://specs.informo.network](https://specs.informo.network/)
 - [__IRC__: `#informo` on chat.freenode.net](irc://chat.freenode.net/#informo)
 - [__Matrix__: `#discuss:weu.informo.network`](https://matrix.to/#/!LppXGlMuWgaYNuljUr:weu.informo.network)
-- [__Mail__: contact@informo.network](contact@informo.network)
+- [__Mail__: core@informo.network](core@informo.network)
 
 __Please come and contribute !__

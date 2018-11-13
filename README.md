@@ -12,7 +12,7 @@ https://informo.github.io/slides-lightning-talks/
 
 ```sh
 # Clone the repository and its submodules
-git clone --recursive 
+git clone --recursive https://github.com/Informo/slides-lightning-talks.git
 
 # Serve the repository with a web server, like:
 python2 -m SimpleHTTPServer && xdg-open http://127.0.0.1:8000

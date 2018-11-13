@@ -28,7 +28,7 @@
 
 - Users rely on foreign entities to set them up
 - They can be blocked too
-- 
+
 Note: Tor uses a specific protocol that can be detected
 
 
@@ -60,6 +60,7 @@ Note: Tor uses a specific protocol that can be detected
     + Hides users' IP
     + Uses HTTPS (harder to track)
     + Data is synchronised across the federation
+    + Each server keeps a copy of all data sent
 - Anybody can host a node
 - We can keep track of existing nodes
 
@@ -86,7 +87,7 @@ Notes:
 
 - Like E2E encryption, but without encryption
 - Traffic between client and nodes is already encrypted (HTTPS)
-- Ensure an article hasn't been changed since writing
+- Ensure an article hasn't been tampered with
 
 
 ------------------------------------------------------------
@@ -95,7 +96,7 @@ Notes:
 
 - Started in Dec. 2017 during Collateral Freedom hackathon
 - Proof of concept
-- Open specification since Oct. 2018
+- Open specifications since Oct. 2018
 
 Notes:
 - POC revealed some design limitations

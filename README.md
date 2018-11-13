@@ -15,5 +15,6 @@ https://informo.github.io/slides-lightning-talks/
 git clone --recursive https://github.com/Informo/slides-lightning-talks.git
 
 # Serve the repository with a web server, like:
-python2 -m SimpleHTTPServer && xdg-open http://127.0.0.1:8000
+python2 -m SimpleHTTPServer
+# Then open your browser on http://127.0.0.1:8000
 ```

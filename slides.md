@@ -28,6 +28,15 @@
 
 - Users rely on foreign entities to set them up
 - They can be blocked too
+- 
+Note: Tor uses a specific protocol that can be detected
+
+
+## Solution: VPN
+
+- VPN traffic is easily detected
+- Privacy invasive
+- Either costly or hard to set-up
 
 
 ## Solution: Tor
@@ -54,7 +63,9 @@ Note: Tor uses a specific protocol that can be detected
 - Anybody can host a node
 - We can keep track of existing nodes
 
-Notes: __=> Anybody can send deceptive information__
+Notes: 
+- User's IP is only known by user's entrypoint
+- __=> Anybody can send deceptive information__
 
 
 ## Trust management
@@ -95,8 +106,8 @@ Notes:
 # Thanks !
 <!-- .slide: data-background="#417D44" -->
 
-- [__Github__: https://github.com/informo](https://github.com/informo)
-- [__Read the specs__: https://specs.informo.network](https://specs.informo.network/)
+- [__Github__: <u>https://github.com/informo</u>](https://github.com/informo)
+- [__Read the specs__: <u>https://specs.informo.network</u>](https://specs.informo.network/)
 - [__IRC__: `#informo` on chat.freenode.net](irc://chat.freenode.net/#informo)
 - [__Matrix__: `#discuss:weu.informo.network`](https://matrix.to/#/!LppXGlMuWgaYNuljUr:weu.informo.network)
 - [__Mail__: core@informo.network](core@informo.network)

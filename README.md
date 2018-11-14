@@ -1,12 +1,16 @@
 # Informo slides for lightning talks
 
-Quick presentation of Informo. Lasts around 5 minutes.
+Quick presentation of Informo.
+
+- `index.html` lasts between 5 and 10 minutes
+- `short.html` lasts around 5 minutes
 
 # Read
 
 ## Online
 
-https://informo.github.io/slides-lightning-talks/
+- https://informo.github.io/slides-lightning-talks/
+- Short version: https://informo.github.io/slides-lightning-talks/short.html
 
 ## From source
 

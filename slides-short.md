@@ -1,6 +1,5 @@
 
 # ![Informo - Making information accessible](img/logo-full-white.png)<!-- .element: class="plain" -->
-### a federated information network
 <!-- .slide: data-background="#417D44" -->
 
 
@@ -10,8 +9,8 @@
 # Issues
 
 [![2018 World press freedom index map](img/pressfreedom.png)<!-- .element: style="height: 370px; margin: -20px;" -->](https://rsf.org/en/ranking)
-- Some countries __censor__ online information
-- Governments or ISPs can __track website users__
+- Some governments __censor__ online information
+- And they can __track website users__
 
 Notes:
 - Map is _2018 World press freedom index map_
@@ -21,7 +20,7 @@ Notes:
 
 ## Solutions
 
-- __VPN__: detectable, privacy invasive, either paid or hard to set-up
+- __VPN__: detectable, either paid or hard to set-up, privacy invasive
 - __Tor__: detectable
 - __Mirror__: depends on foreign entities, can be blocked
 
@@ -46,6 +45,14 @@ Notes:
 Notes:
 - If the node goes down, users can switch to another known node
 - __=> Anybody can send deceptive information__
+
+
+## RSS-like
+
+![Client screenshot](img/client.png)<!-- .element: style="height: 370px; margin: -20px;" -->
+
+- Subscribe to information sources
+- Read articles
 
 
 ## Self-regulated
